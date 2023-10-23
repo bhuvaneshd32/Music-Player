@@ -1,4 +1,4 @@
-# Music-Player
+# Music Player
 using JavaFX
 by,
 Bhuvanesh D [22PD07]
